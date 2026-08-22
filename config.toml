@@ -2,6 +2,5 @@ language = "fr-fr"
 category_size = 10
 
 [starrail]
-categories = ["Info", "Event", "Notices"]
 feed.atom.path = "starrail.xml"
-feed.atom.url = "https://Shynen.github.io/tensho-hsr-rss/starrail.xml"
+feed.atom.url = "https://TON_PSEUDO.github.io/tensho-hsr-rss/starrail.xml"
